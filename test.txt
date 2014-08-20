@@ -7,7 +7,7 @@ phpinfo();
 
 
 est
-=====
+-----=====
 ddddddd
 ddddsss
 sadwfd
